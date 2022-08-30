@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Lucca Fabbri
-- 👨‍🎓 I’m studying economics (almost finnish it) 
-- 👀 I’m interested in python, R and Latex
+- 👋 Hi, I’m Lucca Fabbri.
+- 👨‍🎓 I’m studying economics (almost finnish it). 
+- 👀 I’m interested in python, R and Latex.
 - 🌱 I’m currently learning Latex and R.
 - 📫 How to reach me: luccafabbri01@gmail.com
 
