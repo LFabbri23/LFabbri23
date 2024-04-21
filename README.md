@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lucca Fabbri.
-- 👨‍🎓 I’m studying economics (almost finnish it). 
+- 👨‍🎓 I’m studying finance curently (I’ve a degree in economics). 
 - 👀 I’m interested in python, R and Latex.
 - 🌱 I’m currently learning Latex and R.
 - 📫 How to reach me: luccafabbri01@gmail.com
